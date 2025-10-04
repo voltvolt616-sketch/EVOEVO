@@ -1,0 +1,5 @@
+{
+  "name": " AI Product ",
+  "description": "An AI-powered application to seamlessly stage product photos into new designs. Upload a design, a product, and a logo to generate photorealistic marketing images with custom aspect ratios and further natural language edits.",
+  "requestFramePermissions": []
+}
